@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @karlisrael
+
+<p>- 👋 Hi, I’m @karlisrael
 - 👀 I’m interested in website design 
 - 🌱 I’m currently learning how to design and create a website 
 - 💞️ I’m looking to collaborate on various programs 
-- 📫 How to reach me email. karlisrael96@gmail.com
+- 📫 How to reach me email. karlisrael96@gmail.com<p>
 
 <!---
 karlisrael/karlisrael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
